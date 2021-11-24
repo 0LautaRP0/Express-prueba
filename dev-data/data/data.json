@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "618d69a0df759751e3640460",
+    "apellido": "Penayo",
+    "nombre": "Lautaro",
+    "email": "lautaro@example.net",
+    "edad": 19,
+    "cursos": ["Programacion"],
+    "__v": 0,
+    "nombreCompleto": "Penayo, Lautaro",
+    "id": "618d69a0df759751e3640460"
+  },
+  {
+    "_id": "618d69c1df759751e3640462",
+    "apellido": "Sequeira",
+    "nombre": "Ignacio",
+    "email": "igancio@example.net",
+    "edad": 22,
+    "cursos": ["Programacion"],
+    "__v": 0,
+    "nombreCompleto": "Sequeira, Ignacio",
+    "id": "618d69c1df759751e3640462"
+  },
+  {
+    "_id": "618d69e5df759751e3640464",
+    "apellido": "Migliorero",
+    "nombre": "Agustin",
+    "email": "agustin@example.net",
+    "edad": 23,
+    "cursos": ["Programacion"],
+    "__v": 0,
+    "nombreCompleto": "Migliorero, Agustin",
+    "id": "618d69e5df759751e3640464"
+  },
+  {
+    "_id": "618d69fddf759751e3640466",
+    "apellido": "Altamiranda",
+    "nombre": "Claudio",
+    "email": "claudio@example.net",
+    "edad": 55,
+    "cursos": ["Programacion"],
+    "__v": 0,
+    "nombreCompleto": "Altamiranda, Claudio",
+    "id": "618d69fddf759751e3640466"
+  }
+]
